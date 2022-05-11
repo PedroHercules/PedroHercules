@@ -1,4 +1,4 @@
-### Hi👋, I am Pedro Hércules.
+### Hi👋, i’m Pedro Hércules.
 
 
 - 🔭 I’m currently working as a Software Development Intern at inspireIP
