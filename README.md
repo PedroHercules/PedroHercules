@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working as a Software Development Intern at inspireIP
-- 🌱 Learning about JavaScript, NodeJS and VueJs
+- 🌱 Learning and practicing JavaScript, NodeJS and VueJs
 
 <div align="center">
   <a href="https://github.com/PedroHercules">
