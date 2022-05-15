@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as a Software Development Intern at inspireIP
 - 🌱 Learning and practicing JavaScript, NodeJS and VueJs
 
-<div style="display: flex; flex-wrap: nowrap; justify-content: center;">
+<div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap;">
   <a href="https://github.com/PedroHercules">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHercules&show_icons=true&theme=dracula&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHercules&layout=compact&langs_count=7&theme=dracula"/>
