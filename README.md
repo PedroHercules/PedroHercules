@@ -4,13 +4,13 @@
 - 🔭 I’m currently working as a Software Development Intern at inspireIP
 - 🌱 Learning and practicing JavaScript, NodeJS and VueJs
 
-<div align="center">
+<div align="center" style="display: flex;">
   <a href="https://github.com/PedroHercules">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHercules&show_icons=true&theme=dracula&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHercules&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: flex"><br>
+<div style="display: flex;"><br>
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
