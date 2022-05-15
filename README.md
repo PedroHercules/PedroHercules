@@ -1,6 +1,6 @@
 <div style="display: flex; margin-bottom: 100px;">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif">
-  <h2>Hi, i'm Pedro Hércules</h2>
+  <h2>Hi👋, i'm Pedro Hércules</h2>
 </div>
 
 - 🔭 I’m currently working as a Software Development Intern at inspireIP
@@ -26,8 +26,11 @@
   </div><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHercules&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<br>
-<div> 
+<hr>
+<div align="center">
+  Contact me at:
+  <br>
+  <br>
   <a href = "mailto:pedroherculesdantas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-hercules-4878ba200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
