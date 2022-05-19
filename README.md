@@ -8,11 +8,6 @@
 
 ##
 
-<div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin-top: 20px;">
-  <h3>My github stats</h3>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHercules&show_icons=true&theme=dracula&count_private=true"/>
-</div>
-
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
   <h3>Languages and frameworks that i know and study</h3>
   <div style="display: flex; flex-direction: column; justify-content: center;">
