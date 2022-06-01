@@ -1,5 +1,5 @@
 <div style="display: flex; margin-bottom: 100px;">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif">
+  <img align="right" alt="luffy-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif">
   <h2>Hi👋, i'm Pedro Hércules</h2>
 </div>
 
@@ -7,6 +7,7 @@
 - 🌱 Learning and practicing JavaScript, NodeJS and VueJs
 
 ##
+<br>
 
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
   <h3>Languages and frameworks that i know and study</h3>
