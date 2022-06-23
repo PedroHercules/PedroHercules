@@ -1,20 +1,24 @@
 
-<div style="display: flex; margin-bottom: 100px;">
-  <h2>Hi👋, i'm Pedro Hércules</h2>
-  <img align="right" alt="luffy-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif">
-  
+<div width="1000" align="center" style="display: flex; margin-bottom: 100px;">
+  <img alt="luffy-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif">
+  <br>
+  <img align="center" style="align-self: center;" src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&center=true&width=700&height=70&lines=I'm+Pedro+Hercules;Aspirant+a+Fullstack+Web+Developer">
+</div>
+<br>
+<br>
+<div align="center">
+  <p>🔭 I’m currently working as a Software Development Intern at  <a href="https://inspireip.io">inspireIP</a></p>
+  <p>🌱 Learning and practicing NestJS, NodeJS, VueJs and Solidity</p>
+  <p>🚀 I'm currently looking to reach Junior developer level</p>
 </div>
 
-- 🔭 I’m currently working as a Software Development Intern at inspireIP
-- 🌱 Learning and practicing NestJS, NodeJS, VueJs and Solidity
-- 🚀 I'm currently looking to reach Junior developer level
 
 ##
 <br>
 
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
   <h3>Languages and frameworks that i know and study</h3>
-  <div style="display: flex; flex-direction: column; justify-content: center;">
+  <div style="display: flex; flex-wrap: wrap;flex-direction: column; justify-content: center;">
     <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
