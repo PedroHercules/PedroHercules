@@ -3,7 +3,7 @@
   <img alt="luffy-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif">
   <br>
   <br>
-  <img align="center" style="align-self: center;" src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&center=true&width=700&height=70&lines=I'm+Pedro+Hercules;Aspirant+a+Fullstack+Web+Developer">
+  <img align="center" style="align-self: center;" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=27&color=83F738&background=510D5592&center=true&vCenter=true&width=700&height=70&lines=%3C+Hello+World+%2F%3E;%3C+I'm+Pedro+Hercules+%2F%3E;%3C+Aspiring+Fullstack+Web+Developer+%2F%3E">
 </div>
 <br>
 <div align="center">
