@@ -8,7 +8,7 @@
 <br>
 <div align="center">
   <p>🔭 I’m currently working as a Software Development Intern at  <a href="https://inspireip.io">inspireIP</a></p>
-  <p>🌱 Learning and practicing NestJS, NodeJS, VueJS and Solidity</p>
+  <p>🌱 I’m currently learning NestJS, NodeJS, VueJS and Solidity</p>
   <p>🚀 I'm currently looking to reach junior developer level</p>
 </div>
 <br>
