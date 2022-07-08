@@ -27,13 +27,13 @@
   <h3>My Stats</h3>
   
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHercules&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHercules&layout=compact&langs_count=7&theme=tokyonight"/>
     <br>
     <br>
-    <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=PedroHercules&?count_private=true&show_icons=true&theme=tokyonight" />
+    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=PedroHercules&?count_private=true&show_icons=true&theme=tokyonight" />
     <br>
     <br>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrohercules&&theme=tokyonight" alt="pedrohercules" />
+    <img align="center" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrohercules&&theme=tokyonight" alt="pedrohercules" />
   </div>
   
 </div>
