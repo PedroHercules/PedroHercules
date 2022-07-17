@@ -17,7 +17,7 @@
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
   <h3>Languages and frameworks that i know and study</h3>
   <div style="display: flex; flex-wrap: wrap;flex-direction: column; justify-content: center;">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,solidity&theme=dark&perline=8" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,solidity&theme=dark&perline=8" /><br>
     <img src="https://skillicons.dev/icons?i=vue,nodejs,nest,express,mysql,mongo&theme=dark&perline=8" /><br>
     <img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=8" />
    
