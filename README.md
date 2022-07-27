@@ -9,7 +9,7 @@
 <div align="center">
   <p>🔭 I’m currently working as a Software Development Intern at  <a href="https://inspireip.io">inspireIP</a></p>
   <p>🌱 I’m currently learning NestJS, NodeJS, VueJS and Solidity</p>
-  <p>🚀 I'm currently looking to reach junior developer level</p>
+  <p>🚀 I'm currently dedicated to going to the next level</p>
 </div>
 <br>
 <hr>
@@ -19,7 +19,7 @@
   <div style="display: flex; flex-wrap: wrap;flex-direction: column; justify-content: center;">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,solidity&theme=dark&perline=8" /><br>
     <img src="https://skillicons.dev/icons?i=vue,nodejs,nest,express,mysql,mongo&theme=dark&perline=8" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws&theme=dark&perline=8" />
    
     
   </div><br>
