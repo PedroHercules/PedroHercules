@@ -19,7 +19,7 @@
   <div style="display: flex; flex-wrap: wrap;flex-direction: column; justify-content: center;">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,solidity&theme=dark&perline=8" /><br>
     <img src="https://skillicons.dev/icons?i=vue,nodejs,nest,express,mysql,mongo&theme=dark&perline=8" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=dark&perline=8" />
    
     
   </div><br>
