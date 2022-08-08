@@ -8,7 +8,7 @@
 <br>
 <div align="center">
   <p>🔭 I’m currently working as a Software Development Intern at  <a href="https://inspireip.io">inspireIP</a></p>
-  <p>🌱 I’m currently learning ReactJS Typescript and Solidity</p>
+  <p>🌱 I’m currently learning ReactJS, AdonisJS, Typescript and Solidity</p>
   <p>🚀 I'm currently dedicated to going to the next level</p>
 </div>
 <br>
