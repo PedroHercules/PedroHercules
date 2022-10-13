@@ -43,6 +43,8 @@
   <br>
   <br>
   <a href="https://www.linkedin.com/in/pedro-hercules-4878ba200/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrohercules&label=Profile%20views&color=000000&style=flat" alt="pedrohercules" /> </p>
  
 </div>
 
