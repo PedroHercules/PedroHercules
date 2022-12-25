@@ -18,7 +18,7 @@
   <h3>Languages and frameworks that i know and study</h3>
   <div style="display: flex; flex-wrap: wrap;flex-direction: column; justify-content: center;">
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,python,solidity&theme=dark&perline=8" /><br>
-    <img src="https://skillicons.dev/icons?i=react,vue,tailwind,nodejs,express,mysql,mongo&theme=dark&perline=8" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mysql,mongo&theme=dark&perline=8" /><br>
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,vercel,vscode&theme=dark&perline=8" />
    
     
