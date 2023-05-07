@@ -8,7 +8,7 @@
 <br>
 <div align="center">
   <p>🔭 I’m currently working as a <strong>Junior Fullstack Developer</strong> at  <a href="https://inspireip.io">inspireIP</a></p>
-  <p>🌱 I’m currently learning <strong>ReactJS</strong>, <strong>NextJS</strong> and <strong>Typescript</strong></p>
+  <p>🌱 I’m currently learning <strong>Fastify</strong>, <strong>NextJS</strong> and <strong>Typescript</strong></p>
   <p>🚀 I'm currently dedicated to going to the next level</p>
 </div>
 <br>
