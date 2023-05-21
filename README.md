@@ -1,5 +1,5 @@
 <!-- Imagem -->
-<div align="center" style="flex: 1;">
+<div align="right" style="flex: 1;">
   <img src="https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" alt="Descrição da imagem" width="150px" height="150px">
 </div>
 
