@@ -1,25 +1,34 @@
+<!-- Imagem -->
+<div align="center" style="flex: 1;">
+  <img src="https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" alt="Descrição da imagem" width="150px" height="150px">
+</div>
 
-<div width="1000" align="center" style="display: flex; margin-bottom: 100px;">
-  <img alt="luffy-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif">
-  <br>
-  <br>
-  <img align="center" style="align-self: center;" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&color=FFFFFF&background=300A24&center=true&vCenter=true&width=800&height=70&lines=%3C+Hello+World+%2F%3E;%3C+I'm+Pedro+H%C3%A9rcules+%2F%3E;%3C+Aspiring+Full+Stack+Web+Developer+%2F%3E">
-</div>
-<br>
-<div align="center">
-  <p>🔭 I’m currently working as a <strong>Junior Fullstack Developer</strong> at  <a href="https://inspireip.io">inspireIP</a></p>
-  <p>🌱 I’m currently learning <strong>Fastify</strong>, <strong>NextJS</strong> and <strong>Typescript</strong></p>
-  <p>🚀 I'm currently dedicated to going to the next level</p>
-</div>
+<!-- Code -->
+```js
+  console.log('Hello world')
+  const aboutMe = {
+    name: "Pedro Hércules",
+    specialization: "Fullstack Developer",
+    graduation: "Bachelor's degree in Information Systems",
+    companyName: "Emana group",
+    careerGoal: "Software Engineer",
+    learningTopics: ['Fastify', 'Typescript', 'NextJS']
+  }
+```
 <br>
 <hr>
 <br>
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-  <h3>Languages and frameworks that i know and study</h3>
+  <h2>Languages and frameworks that i know and study</h2>
   <div style="display: flex; flex-wrap: wrap;flex-direction: column; justify-content: center;">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,python,solidity&theme=dark&perline=8" /><br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,adonis,express,mysql,mongo&theme=dark&perline=8" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,vercel,vscode&theme=dark&perline=8" />
+    <h3>Front-end</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,sass,react,nextjs,tailwind,styledcomponents&theme=dark&perline=8" /><br>
+    <h3>Back-end</h3>
+    <img src="https://skillicons.dev/icons?i=nodejs,adonis,express,mysql,mongo&theme=dark&perline=8" /><br>
+    <h3>Programming languages</h3>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,c&theme=dark&perline=8" /><br>
+    <h3>Tools</h3>
+    <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,aws,vercel,vscode&theme=dark&perline=8" /><br>
    
     
   </div><br>
