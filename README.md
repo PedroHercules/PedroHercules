@@ -17,16 +17,7 @@
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
   <h2>Languages and frameworks that i know and study</h2>
   <div style="display: flex; flex-wrap: wrap;flex-direction: column; justify-content: center;">
-    <h3>Front-end</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,sass,react,nextjs,tailwind,styledcomponents&theme=dark&perline=8" /><br>
-    <h3>Back-end</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,adonis,express,mysql,mongo&theme=dark&perline=8" /><br>
-    <h3>Programming languages</h3>
-    <img src="https://skillicons.dev/icons?i=js,ts,python,c&theme=dark&perline=8" /><br>
-    <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,aws,vercel,vscode&theme=dark&perline=8" /><br>
-   
-    
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,python,c,react,nextjs,vite,tailwind,styledcomponents,nodejs,adonis,nest,express,mysql,postgres,sqlite,mongo,prisma,sequelize,docker,jest,linux,git,github,gitlab,aws,vercel,vscode&theme=dark&perline=8" />    
   </div><br>
   <hr>
   <h3>My Stats</h3>
