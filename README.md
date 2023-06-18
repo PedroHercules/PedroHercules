@@ -1,3 +1,5 @@
+<img src="https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" alt="Descrição da imagem" width="150px" height="150px">
+
 <!-- Code -->
 ```js
   console.log('Hello world')
@@ -11,7 +13,7 @@
   }
 ```
 <br>
-<img src="https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" alt="Descrição da imagem" width="150px" height="150px">
+
 <hr>
 <br>
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
