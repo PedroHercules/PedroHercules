@@ -1,17 +1,28 @@
-<img src="https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" alt="Descrição da imagem" width="150px" height="150px">
+<div style="display: flex;">
+<div align="center">
+  <img src="https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" alt="Descrição da imagem" width="150px" height="150px">
+</div>
 
-<!-- Code -->
-```js
-  console.log('Hello world')
-  const aboutMe = {
-    name: "Pedro Hércules",
-    specialization: "Fullstack Developer",
-    graduation: "Bachelor's degree in Information Systems",
-    companyName: "Emana group",
-    careerGoal: "Software Engineer",
-    learningTopics: ['Fastify', 'Typescript', 'NextJS']
-  }
+
+
+<div align="left" width="30%">
+  
+```javascript
+console.log('Hello world');
+const aboutMe = {
+  name: "Pedro Hércules",
+  specialization: "Fullstack Developer",
+  graduation: "Bachelor's degree in Information Systems",
+  companyName: "Emana group",
+  careerGoal: "Software Engineer",
+  learningTopics: ['Fastify', 'Typescript', 'NextJS']
+};
 ```
+</div>
+
+</div>
+
+
 <br>
 
 <hr>
