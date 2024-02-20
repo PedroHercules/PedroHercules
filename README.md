@@ -4,7 +4,7 @@
 </div>
 
 <div align="left" width="30%">
-  
+	
 ```bash
 	 ___________________________________
 	<                                   >
@@ -16,12 +16,16 @@
 ---------------------------------------------------------
 			About me
 ---------------------------------------------------------
-name: "Pedro Hércules",
-specialization: "Fullstack Developer",
-graduation: "Bachelor's degree in Information Systems",
-companyName: "Emana group",
-careerGoal: "Software Engineer",
-learningTopics: ["Architecture", "Javascript", "NextJS", "Docker"]
+name: Pedro Hércules
+specialization: Fullstack Developer
+graduation: Bachelor degree in Information Systems
+companyName: Emana group
+careerGoal: Software Engineer
+learningTopics:
+  - Architecture
+  - Javascript
+  - NextJS
+  - Docker
 ```
 </div>
 
