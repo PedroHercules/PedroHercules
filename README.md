@@ -3,20 +3,25 @@
   <img src="https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" alt="Descrição da imagem" width="150px" height="150px">
 </div>
 
-
-
 <div align="left" width="30%">
   
-```javascript
-console.log('Hello world');
-const aboutMe = {
-  name: "Pedro Hércules",
-  specialization: "Fullstack Developer",
-  graduation: "Bachelor's degree in Information Systems",
-  companyName: "Emana group",
-  careerGoal: "Software Engineer",
-  learningTopics: ['Fastify', 'Typescript', 'NextJS']
-};
+```bash
+	 ___________________________________
+	<                                   >
+	<            Hello World!           >
+	<                                   >
+	<        Welcome to my GitHub       >
+	<                                   >
+	<___________________________________>
+---------------------------------------------------------
+			About me
+---------------------------------------------------------
+name: "Pedro Hércules",
+specialization: "Fullstack Developer",
+graduation: "Bachelor's degree in Information Systems",
+companyName: "Emana group",
+careerGoal: "Software Engineer",
+learningTopics: ["Architecture", "Javascript", "NextJS", "Docker"]
 ```
 </div>
 
