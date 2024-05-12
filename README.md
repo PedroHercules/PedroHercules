@@ -14,8 +14,15 @@
 
 <hr/>
 <div>
-<p>I am a software engineer always in search of developing accessible and impactful solutions for the world. I enjoy participating in the entire software development process, always seeking to help with my experience.</p>
-<p>I have experience in development with Javascript and Typescript technologies, but always in search of learning new technologies and development practices that fit the use case I am working on.</p>
+<div>
+ <p>I am a software engineer always in search of developing accessible and impactful solutions for the world. I enjoy participating in the entire software development process, always seeking to help with my experience.</p>
+ <p>I have experience in development with Javascript and Typescript technologies, but always in search of learning new technologies and development practices that fit the use case I am working on.</p>
+</div>	
+
+
+<div align="center">
+	<img src="dan-shiffman-coding.gif" width="400" heigth="300">
+</div>
 
 </div>
 </div>
