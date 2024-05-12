@@ -1,36 +1,24 @@
 <div style="display: flex;">
 <div align="center">
   <img src="https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" alt="Descrição da imagem" width="150px" height="150px">
+  <br/>
+  <h3>Hello world! I'm Pedro Hércules</h3>
+  Contact me at:
+  <br/>
+  <br/>
+  <a href="https://www.linkedin.com/in/pedro-hercules-4878ba200/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:pedroherculesdantas@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrohercules&label=Profile%20views&color=000000&style=flat" alt="pedrohercules" /> </p>
 </div>
 
-<div align="left" width="30%">
-	
-```bash
-	 ___________________________________
-	<                                   >
-	<            Hello World!           >
-	<                                   >
-	<        Welcome to my GitHub       >
-	<                                   >
-	<___________________________________>
----------------------------------------------------------
-			About me
----------------------------------------------------------
-name: Pedro Hércules
-specialization: Fullstack Developer
-graduation: Bachelor degree in Information Systems
-companyName: Emana group
-careerGoal: Software Engineer
-learningTopics:
-  - Architecture
-  - Javascript
-  - NextJS
-  - Docker
-```
-</div>
+<hr/>
+<div>
+<p>I am a software engineer always in search of developing accessible and impactful solutions for the world. I enjoy participating in the entire software development process, always seeking to help with my experience.</p>
+<p>I have experience in development with Javascript and Typescript technologies, but always in search of learning new technologies and development practices that fit the use case I am working on.</p>
 
 </div>
-
+</div>
 
 <br>
 
@@ -87,16 +75,7 @@ learningTopics:
   
 </div>
 <hr>
-<div align="center">
-  Contact me at:
-  <br>
-  <br>
-  <a href="https://www.linkedin.com/in/pedro-hercules-4878ba200/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:pedroherculesdantas@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrohercules&label=Profile%20views&color=000000&style=flat" alt="pedrohercules" /> </p>
- 
-</div>
+
 
   
   
