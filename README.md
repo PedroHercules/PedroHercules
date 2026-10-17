@@ -1,39 +1,31 @@
-<div style="display: flex;">
 <div align="center">
-  <img src="https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" alt="Descrição da imagem" width="150px" height="150px">
-  <br/>
-  <h3>Hello world! I'm Pedro Hércules</h3>
-  Contact me at:
-  <br/>
-  <br/>
-  <a href="https://www.linkedin.com/in/pedro-hercules-4878ba200/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:pedroherculesdantas@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrohercules&label=Profile%20views&color=000000&style=flat" alt="pedrohercules" /> </p>
+
+<pre>
+┌──────────────────────────────────────────────────────────┐
+│  PEDRO HÉRCULES  //  SOFTWARE ENGINEER                    │
+│  SYSTEM ONLINE  •  Building useful things with code       │
+│  JS / TS  •  APIs  •  Accessible software                 │
+└──────────────────────────────────────────────────────────┘
+</pre>
+
+<a href="https://www.linkedin.com/in/pedro-hercules-4878ba200/"><img src="https://img.shields.io/badge/LINKEDIN-1E3024?style=flat-square&logo=linkedin&logoColor=39FF14" alt="LinkedIn" /></a>
+<a href="mailto:pedroherculesdantas@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1E3024?style=flat-square&logo=gmail&logoColor=FFB000" alt="Email" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=PedroHercules&label=PROFILE+VIEWS&color=39FF14&style=flat-square" alt="Profile views" />
+
 </div>
 
-<hr/>
-<div>
-<div>
- <p>I am a software engineer always in search of developing accessible and impactful solutions for the world. I enjoy participating in the entire software development process, always seeking to help with my experience.</p>
- <p>I have experience in development with Javascript and Typescript technologies, but always in search of learning new technologies and development practices that fit the use case I am working on.</p>
-</div>	
+---
 
+### `$ whoami`
+
+I am a software engineer always in search of developing accessible and impactful solutions for the world. I enjoy participating in the entire software development process, always seeking to help with my experience.
+
+I have experience with JavaScript and TypeScript, and I am always learning technologies and practices that fit the problem at hand.
+
+### `$ stack --all`
 
 <div align="center">
-	<img src="dan-shiffman-coding.gif" width="400" heigth="300">
-</div>
-
-</div>
-</div>
-
-<br>
-
-<hr>
-<br>
-<div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-  <h2>Languages and frameworks that i know and study</h2>
- <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
@@ -67,22 +59,15 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
 </div>
-  <hr>
-  <h3>My Stats</h3>
-  
-  <div align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHercules&layout=compact&langs_count=7&theme=tokyonight"/>
-    <br>
-    <br>
-    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=PedroHercules&?count_private=true&show_icons=true&theme=tokyonight" />
-    <br>
-    <br>
-    <img align="center" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrohercules&&theme=tokyonight" alt="pedrohercules" />
-  </div>
-  
+
+---
+
+### `$ stats --user PedroHercules`
+
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHercules&layout=compact&langs_count=7&title_color=39FF14&text_color=C9D1B8&icon_color=FFB000&bg_color=0D1117&border_color=355E3B&hide_border=true" alt="Most used languages" />
+  <br><br>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=PedroHercules&count_private=true&show_icons=true&title_color=39FF14&text_color=C9D1B8&icon_color=FFB000&bg_color=0D1117&border_color=355E3B&hide_border=true" alt="GitHub statistics" />
+  <br><br>
+  <img height="200" src="https://streak-stats.demolab.com/?user=PedroHercules&background=0D1117&border=355E3B&stroke=355E3B&ring=39FF14&fire=FFB000&currStreakNum=E6F4D7&sideNums=E6F4D7&currStreakLabel=39FF14&sideLabels=C9D1B8&dates=8B949E" alt="GitHub contribution streak" />
 </div>
-<hr>
-
-
-  
-  
