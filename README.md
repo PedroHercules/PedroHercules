@@ -23,6 +23,10 @@ I am a software engineer always in search of developing accessible and impactful
 
 I have experience with JavaScript and TypeScript, and I am always learning technologies and practices that fit the problem at hand.
 
+<div align="center">
+  <img src="./Coding%20Software%20Developer%20GIF%20by%20CodeRower.gif" alt="Programmer showing off his moves" width="360" />
+</div>
+
 ### `$ stack --all`
 
 <div align="center">
